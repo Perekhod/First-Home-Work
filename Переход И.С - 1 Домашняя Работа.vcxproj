@@ -24,6 +24,7 @@
     <ProjectGuid>{638b6f7d-a397-4b14-be29-a96ecb8d3ff2}</ProjectGuid>
     <RootNamespace>ПереходИС1ДомашняяРабота</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>First Home Work - Perekhod I.S</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.Переход И.С - ЗАДАНИЕ 1.10.1.cpp" />
+    <ClCompile Include="First Home Work - Perekhod I.S.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
