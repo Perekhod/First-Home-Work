@@ -1,2 +1,0 @@
-09.02 - Rewritten in english. Code refactoring
-09.02 - Removing return 0, github checkout
